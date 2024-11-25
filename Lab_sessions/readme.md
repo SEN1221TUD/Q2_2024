@@ -9,6 +9,6 @@ Since the lab sessions built forth on each other, it is strongly recommended to 
 | Date       | Lab session | Date answers made availabe |
 |------      |-------------|---------   |
 | 11/11/2024 | Lab_01A,_1B | 22/11/2024 |
-| 18/11/2024 | Lab_02A,_2B | 29/11/2024 |
-| 25/11/2024 | Lab_03A,_3B | 02/12/2024 |
+| 18/11/2024 | Lab_02A,_2B | 27/11/2024 |
+| 25/11/2024 | Lab_03A,_3B | 25/11/2024 |
 <br>
