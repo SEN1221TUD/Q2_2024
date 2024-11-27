@@ -10,4 +10,4 @@ Therefore, we will provide you with the following files during the exam:
 
 The main focus of the exam lies on weeks 1 and 2 (MNL + Mixed Logit). You will not be asked to train a data-driven choice model (week 3). However, conceptual questions about week 3 can be part of the exam. 
 <br><br>
-Note that the HTML file `exam_6_12_2023_with_answers.html` is not displaying on the GitHub website. Download the file and open it with a browser (or look at the pdf) to see it.
+Note that the HTML files are not displaying on the GitHub website. Download the file and open it with a browser (or look at the pdf) to see it.
