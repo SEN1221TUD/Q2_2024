@@ -2,8 +2,8 @@ The exam will take place in one of TUD’s computer halls, and you will complete
 <br><br>
 Partial exam 1 aims to assess your modelling skills, not your Python syntax knowledge. <br>
 Therefore, we will provide you with the following files during the exam:
-- All [Lab session notebooks](Partial_exam/lab_sessions_html) with the correct answers provided by us (in HTML format)
-- All [tutorial notebooks](/Partial_exam/tutorials_html/) (in HTML format)
+- All [Lab session notebooks](/Partial_exam/lab_sessions_html) with the correct answers provided by us (in HTML format)
+- All [tutorial notebooks](/Partial_exam/tutorials_html) (in HTML format)
 - [Chi-square table](ChiSquareDistribution.pdf) (pdf)
 - [Formula cheat sheet](Formula%20Cheat%20Sheet.pdf) (pdf) (although I don't think you will need this)
 <br><br>
