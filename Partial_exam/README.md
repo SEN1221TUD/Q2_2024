@@ -1,4 +1,4 @@
-The exam will take place in one of TUD’s computer halls, and you will complete it on a university computer. You can access Jupyter Notebook, Python, Excel, and Notepad in the digital exam environment. You cannot access the internet, ChatGPT or any other online resource.
+Partial exam 1 will take place in one of TUD’s computer halls, and you will complete it on a university computer. You can access Jupyter Notebook, Python, Excel, and Notepad in the digital exam environment. You cannot access the internet, ChatGPT or any other online resource.
 <br><br>
 Partial exam 1 aims to assess your modelling skills, not your Python syntax knowledge. <br>
 Therefore, we will provide you with the following files during the exam:
